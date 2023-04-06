@@ -2,6 +2,12 @@
 
 The Discord Generator Bot is a versatile and easy-to-use Node.js bot that allows you to upload and generate accounts for various services, such as NordVPN and Minecraft which generates revenue to the owner every time someone clicks the link. It utilizes the powerful combination of Shrinkearn and Gists to provide you with a streamlined and user-friendly experience.
 
+## Preview
+
+Check out the Discord Generator Bot in action! Click on the thumbnail below to watch a demo video:
+
+[![Discord Generator Bot Demo](https://cdn.streamable.com/image/sgyxd0_thumbnail.jpg)](https://streamable.com/sgyxd0)
+
 ## Features
 
 - Upload and generate accounts for various services
