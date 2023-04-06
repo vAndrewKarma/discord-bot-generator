@@ -39,7 +39,7 @@ You can then start the bot using the following command:
 
 ## Usage
 
-To generate accounts, simply upload a file containing the account information to the root (EX: steam.txt), add account_type  in index.js and then use the `/freegen  account_type` command in the designated channel:
+To generate accounts, simply upload a file containing the account information to the root (EX: steam.txt), add account_type  in index.js and then use the `/freegen account_type` command in the designated channel:
 
 The bot will then generate a link using the Shrinkearn API and post it in the channel. (ephermal, only the user who executed the command can see it)
 
