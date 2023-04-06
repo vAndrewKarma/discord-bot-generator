@@ -57,3 +57,7 @@ All of these options can be configured by editing the .env file.
 
 Overall, the Discord Generator Bot is an excellent choice for anyone looking for a reliable and efficient way to manage and generate accounts for various services. Whether you're a seasoned pro or just getting started, this bot has everything you need to get the job done quickly and easily and you can make some money using it.
 
+## Support
+
+If you need any help with the Discord Generator Bot, please join my Discord server [here](https://discord.gg/nvkRNYk5Ww). You can also check out the bot's GitHub repository [here](https://github.com/vAndrewKarma/discord-bot-generator) for more information and to report any issues.
+
