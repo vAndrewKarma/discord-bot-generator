@@ -18,9 +18,9 @@ To get started with the Discord Generator Bot, you'll need to have Node.js insta
 
 Once you have your bot set up, you can clone the repository and install the required dependencies using NPM:
 
-`git clone https://github.com/vAndrewKarma/discord-bot-generator.git
-cd discord-bot-generator
-npm install`
+`git clone https://github.com/vAndrewKarma/discord-bot-generator.git`
+`cd discord-bot-generator`
+`npm install`
 
 Next, create a .env file in the root directory of the project and add your bot token, Shrinkearn API key,Github Gists API key, and other configuration options:
 
