@@ -26,7 +26,7 @@ Next, create a .env file in the root directory of the project and add your bot t
 
 - BOT_TOKEN=your_bot_token
 - DELETE_TIME=time_to_delete_account_after_generated
-- SHRINKEARN_API=your_shrinkearn_api [ YOU CAN GET IT  FROM HERE: https://shrinkearn.com/ ]
+- SHRINKEARN_API=your_shrinkearn_api [ https://shrinkearn.com/ ]
 - COOLDOWN_GEN=your_cooldown_after_one_account_has_been_generated
 - GENERATOR_CHANNEL=channel_to_generate
 - GITHUB_GISTS_API=gists_api_to_upload_content
