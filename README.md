@@ -59,5 +59,5 @@ Overall, the Discord Generator Bot is an excellent choice for anyone looking for
 
 ## Support
 
-If you need any help with the Discord Generator Bot, please join my Discord server [here](https://discord.gg/nvkRNYk5Ww). You can also check out the bot's GitHub repository [here](https://github.com/vAndrewKarma/discord-bot-generator) for more information and to report any issues.
+If you need any help with the Discord Generator Bot, please join my Discord server [here](https://discord.gg/nvkRNYk5Ww).
 
