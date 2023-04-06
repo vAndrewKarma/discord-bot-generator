@@ -4,9 +4,8 @@ The Discord Generator Bot is a versatile and easy-to-use Node.js bot that allows
 
 ## Preview
 
-Check out the Discord Generator Bot in action! Click here to watch a demo video:
+Check out the Discord Generator Bot in action! Click [here](https://streamable.com/sgyxd0) to watch a demo video.
 
-[![Discord Generator Bot Demo](https://cdn.streamable.com/image/sgyxd0_thumbnail.jpg)](https://streamable.com/sgyxd0)
 
 ## Features
 
